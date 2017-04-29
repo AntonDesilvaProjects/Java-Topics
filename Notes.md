@@ -1,3 +1,7 @@
+##Java 8 - Concurrency
+	In thread-based concurrency, programs can do multiple things concurrently to
+	increase efficiency and maximize the usage of the CPU.
+
 ##Java 8 - Generics
 
 	Generics allows for the creation of classes, interfaces, and methods
